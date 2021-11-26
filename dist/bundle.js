@@ -1,0 +1,1 @@
+(()=>{"use strict";window.onload=function(){!function(e){const n=document.createElement("div");n.innerText="fedor fet",e.append(n)}(document.querySelector("body"))}})();
